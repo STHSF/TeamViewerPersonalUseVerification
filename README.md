@@ -3,9 +3,10 @@
 Using python script to change your TeamViewer ID. But it's for Mac OS only.
 
 # 
-'''python
+
+```python
 sudo python change_id.py 
-'''
+```
 
 # Reference
 
