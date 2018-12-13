@@ -1,7 +1,11 @@
 # TeamViewerPersonalUseVerification
 
-TeamViewer Personal Use Verification. Using python script to change your TeamViewer ID.
+Using python script to change your TeamViewer ID. But it's for Mac OS only.
 
+# 
+'''python
+sudo python change_id.py 
+'''
 
 # Reference
 
