@@ -7,7 +7,7 @@ Using python script to change your TeamViewer ID. But it's for Mac OS only.
 ```python
 sudo python change_id.py 
 ```
-感谢@的提示,文件中删除UUID后依然可以使用, 但是我没有测试.
+感谢@zhenhappy的提示,文件中删除UUID后依然可以使用, 但是我没有测试.
 
 
 # Reference
